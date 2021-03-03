@@ -145,7 +145,7 @@
     "postcss-loader": "2.0.6",
     "prop-types": "15.5.8",
     "proxy-from-env": "1.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "querystring-browser": "1.0.4",
     "raw-loader": "0.5.1",
     "react": "^16.3.0",
